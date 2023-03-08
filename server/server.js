@@ -11,7 +11,7 @@ const request = require("request");
 const apikey = "nCeFJfEifPWjCCiBUBWh3-cIcROoqQzj8kbtvuQ-PWkE";
 const endpoint =
 "https://api.us-south.discovery.watson.cloud.ibm.com/instances/29ec7433-c44f-412b-9b1c-2d30c6353934";
-const project_id = "1f58c3fd-3f77-45ef-9cbf-0331650ec0c8";
+const project_id = "109b7374-401a-456b-aacf-5c5b1b55682a";
 
 // query parameters
 const version = "2021-11-20";
